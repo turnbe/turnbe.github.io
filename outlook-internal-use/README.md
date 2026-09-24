@@ -1,7 +1,5 @@
 # Sensitivity Label Prompt v3
 
-Replace the files under `turnbe.github.io/outlook-internal-use/` with these files.
-
 Behaviour:
 - Reads the current Outlook/Purview sensitivity label.
 - If it is `Unlabelled Sensitivity`, the Choose label task pane offers:
