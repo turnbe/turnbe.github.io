@@ -1,0 +1,1 @@
+Office.onReady(function(){});function done(e){if(e&&e.completed)e.completed();}function onMessageCompose(e){done(e);}Office.actions.associate("onMessageCompose",onMessageCompose);
